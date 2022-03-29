@@ -1,0 +1,25 @@
+    </div>
+    <footer class="navbar-default navbar-fixed-bottom">
+      <div class="container-fluid text-center footer">
+        <%
+        messages = [
+            "<i class='glyphicon glyphicon-flash'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-flash'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-heart'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-education'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-heart'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-console'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-flash'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-cloud'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>",
+            "<i class='glyphicon glyphicon-film'></i>&nbsp;&nbsp;<a href='#'>Amazing OSINT Tool</a>"
+        ]
+
+        import random
+        message = messages[random.randint(0, len(messages)-1)]
+        %>
+        <span>${message}</span>
+      </div>
+    </footer>
+
+    </body>
+</html>
