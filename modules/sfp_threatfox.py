@@ -3,11 +3,6 @@
 # Name:        sfp_threatfox
 # Purpose:     Check if an IP address is malicious according to ThreatFox.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-09-20
-# Copyright:   (c) bcoles 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

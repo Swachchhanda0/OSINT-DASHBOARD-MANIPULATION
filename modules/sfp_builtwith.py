@@ -2,11 +2,6 @@
 # Name:         sfp_builtwith
 # Purpose:      Query builtwith.com using their API.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     10/08/2017
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

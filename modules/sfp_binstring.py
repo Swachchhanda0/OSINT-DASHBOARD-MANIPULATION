@@ -3,11 +3,6 @@
 # Name:         sfp_binstring
 # Purpose:      Identify strings in binary content.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     03/12/2016
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import string

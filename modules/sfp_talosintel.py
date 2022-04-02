@@ -4,11 +4,6 @@
 # Purpose:      Check if a netblock or IP address is malicious according to
 #               TalosIntelligence.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     26/03/2019
-# Copyright:   (c) Steve Micallef, 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPAddress, IPNetwork

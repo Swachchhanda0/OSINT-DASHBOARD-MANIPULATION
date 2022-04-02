@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_quad9
-# Purpose:      SpiderFoot plug-in for looking up whether hosts are blocked by
+# Purpose:      Plug-in for looking up whether hosts are blocked by
 #               Quad 9 (9.9.9.9)
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     04/02/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import dns.resolver

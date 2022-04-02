@@ -3,11 +3,6 @@
 # Name:        sfp_crxcavator
 # Purpose:     Query CRXcavator for Chrome extensions.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2020-09-19
-# Copyright:   (c) bcoles 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

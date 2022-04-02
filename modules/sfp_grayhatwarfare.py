@@ -2,11 +2,6 @@
 # Name:        sfp_grayhatwarfare
 # Purpose:     Find bucket names matching the keyword extracted from a domain from Grayhat API.
 #
-# Author:      <krishnasis@hotmail.com>
-#
-# Created:     24-01-2021
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

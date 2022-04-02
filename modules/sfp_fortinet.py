@@ -3,11 +3,6 @@
 # Name:         sfp_fortinet
 # Purpose:      Check if an IP address is malicious according to FortiGuard Antispam.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

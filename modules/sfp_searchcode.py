@@ -2,12 +2,6 @@
 # -------------------------------------------------------------------------------
 # Name:        sfp_searchcode
 # Purpose:     Search searchcode for code repositories mentioning the target domain.
-#
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-07-06
-# Copyright:   (c) bcoles 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

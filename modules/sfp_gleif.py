@@ -4,11 +4,6 @@
 # Purpose:     Search the Global LEI Index for company information using
 #              Global Legal Entity Identifier Foundation (GLEIF) search API.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-06-21
-# Copyright:   (c) bcoles 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

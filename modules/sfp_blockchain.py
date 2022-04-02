@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_blockchain
-# Purpose:      SpiderFoot plug-in to look up a bitcoin wallet's balance by
+# Purpose:      Plug-in to look up a bitcoin wallet's balance by
 #               querying blockchain.info.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     18/06/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

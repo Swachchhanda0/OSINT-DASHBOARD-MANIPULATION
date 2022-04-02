@@ -3,12 +3,7 @@
 # Name:         sfp_adblock
 # Purpose:      SpiderFoot plug-in to test if external/internally linked pages
 #               would be blocked by AdBlock Plus.
-#
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     22/09/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
+
 # -------------------------------------------------------------------------------
 
 import adblockparser

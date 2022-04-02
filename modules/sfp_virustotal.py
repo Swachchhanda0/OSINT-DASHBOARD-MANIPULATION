@@ -3,11 +3,6 @@
 # Name:         sfp_virustotal
 # Purpose:      Query VirusTotal for identified IP addresses.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     21/03/2014
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

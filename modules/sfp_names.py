@@ -3,11 +3,6 @@
 # Name:         sfp_names
 # Purpose:      Identify human names in content fetched.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     24/03/2014
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

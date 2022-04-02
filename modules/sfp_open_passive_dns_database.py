@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_open_passive_dns_database
-# Purpose:     SpiderFoot plug-in for retrieving passive DNS information
+# Purpose:     Plug-in for retrieving passive DNS information
 #              from pdns.daloo.de Open passive DNS database.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2020-02-22
-# Copyright:   (c) bcoles 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

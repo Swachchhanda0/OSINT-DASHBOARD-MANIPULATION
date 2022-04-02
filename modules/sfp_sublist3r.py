@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_sublist3r
-# Purpose:      SpiderFoot plug-in for subdomain enumeration using
+# Purpose:      Plug-in for subdomain enumeration using
 #               api.sublist3r.com
 #
-# Author:      TheTechromancer
-#
-# Created:     05/21/2021
-# Copyright:   (c) Steve Micallef 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

@@ -3,12 +3,6 @@
 # Name:        sfp_ahmia
 # Purpose:     Searches the Tor search engine 'Ahmia' for content related to the
 #              target.
-#
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     20/06/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

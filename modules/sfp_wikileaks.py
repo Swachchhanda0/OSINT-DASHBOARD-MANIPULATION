@@ -2,12 +2,6 @@
 # -------------------------------------------------------------------------------
 # Name:         sfp_wikileaks
 # Purpose:      Searches Wikileaks for mentions of domain names and e-mails.
-#
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     16/11/2016
-# Copyright:   (c) Steve Micallef 2016
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import datetime

@@ -3,11 +3,6 @@
 # Name:         sfscan
 # Purpose:      Scanning control functionality
 #
-# Author:       Steve Micallef <steve@binarypool.com>
-#
-# Created:      11/03/2013
-# Copyright:    (c) Steve Micallef 2013
-# License:      GPL
 # -----------------------------------------------------------------
 import socket
 import sys

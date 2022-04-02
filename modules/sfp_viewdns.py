@@ -3,11 +3,6 @@
 # Name:        sfp_viewdns
 # Purpose:     Reverse Whois lookups using ViewDNS.info API.
 #
-# Author:      Steve Micallef
-#
-# Created:     08/09/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

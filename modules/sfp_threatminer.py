@@ -3,11 +3,6 @@
 # Name:         sfp_threatminer
 # Purpose:      Query ThreatMiner.org using their API.
 #
-# Author:      Steve Micallef
-#
-# Created:     12/07/2019
-# Copyright:   (c) Steve Micallef 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

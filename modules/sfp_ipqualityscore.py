@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_ipqualityscore
-# Purpose:      Spiderfoot module to check whether a target is malicious
+# Purpose:      Module to check whether a target is malicious
 #               using IPQualityScore API
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     2020-10-07
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 import json
 

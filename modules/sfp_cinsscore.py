@@ -3,11 +3,6 @@
 # Name:        sfp_cinsscore
 # Purpose:     Checks if an IP address is malicious according to the CINS Army list.
 #
-# Author:      steve@binarypool.com
-#
-# Created:     13/05/2018
-# Copyright:   (c) Steve Micallef, 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPAddress, IPNetwork

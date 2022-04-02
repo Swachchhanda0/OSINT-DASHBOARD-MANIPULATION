@@ -2,12 +2,7 @@
 # -------------------------------------------------------------------------------
 # Name:         sfp_vxvault
 # Purpose:      Check if a domain or IP address is malicious according to VXVault.net.
-#
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
+#L
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

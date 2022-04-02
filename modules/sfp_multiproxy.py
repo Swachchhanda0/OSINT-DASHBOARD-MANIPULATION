@@ -4,11 +4,6 @@
 # Purpose:     Check if an IP arress is an open proxy according to multiproxy.org
 #              open proxy list.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPAddress, IPNetwork

@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_iban
-# Purpose:      SpiderFoot plug-in for scanning retrieved content by other
+# Purpose:      Plug-in for scanning retrieved content by other
 #               modules (such as sfp_spider) and identifying IBANs.
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     26/04/2020
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

@@ -3,11 +3,6 @@
 # Name:         sfp_hostio
 # Purpose:      Host.io database query module
 #
-# Author:      Lev Trubach <leotrubach@gmail.com>
-#
-# Created:     2020-08-21
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 import json
 

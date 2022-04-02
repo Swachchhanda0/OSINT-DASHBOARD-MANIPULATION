@@ -2,11 +2,6 @@
 # Name:         sfp_openbugbounty
 # Purpose:      Query the Open Bug Bounty database to see if our target appears.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     04/10/2015
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

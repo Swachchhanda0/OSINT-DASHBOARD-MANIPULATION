@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_bitcoin
-# Purpose:      SpiderFoot plug-in for scanning retrieved content by other
+# Purpose:      Plug-in for scanning retrieved content by other
 #               modules (such as sfp_spider) and identifying bitcoin numbers.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     27/05/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import codecs

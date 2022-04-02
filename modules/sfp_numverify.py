@@ -1,13 +1,8 @@
 # -------------------------------------------------------------------------------
 # Name:        sfp_numverify
-# Purpose:     SpiderFoot plug-in to search numverify.com API for a phone number
+# Purpose:     Plug-in to search numverify.com API for a phone number
 #              and retrieve location and carrier information.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2019-05-25
-# Copyright:   (c) bcoles 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

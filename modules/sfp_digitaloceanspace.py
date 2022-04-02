@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_digitaloceanspace
-# Purpose:      SpiderFoot plug-in for identifying potential Digital Ocean spaces
+# Purpose:      Plug-in for identifying potential Digital Ocean spaces
 #               related to the target.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     16/06/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import random

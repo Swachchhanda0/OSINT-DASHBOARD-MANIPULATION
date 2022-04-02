@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_phone
-# Purpose:      SpiderFoot plug-in for scanning retrieved content by other
+# Purpose:      Plug-in for scanning retrieved content by other
 #               modules (such as sfp_spider) to identify phone numbers, and
 #               lookup carrier information in Google's libphonenumber DB.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     19/06/2016
-# Copyright:   (c) Steve Micallef 2016
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import phonenumbers

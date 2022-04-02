@@ -3,11 +3,6 @@
 # Name:         sfp_socialprofiles
 # Purpose:      Tries to discover social media profiles of any identified human names.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     12/04/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

@@ -1,14 +1,8 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_adguard_dns
-# Purpose:     SpiderFoot plug-in for looking up whether hosts are blocked by
+# Purpose:     Plug-in for looking up whether hosts are blocked by
 #              AdGuard DNS servers.
-#
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-10-11
-# Copyright:   (c) bcoles 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import dns.resolver

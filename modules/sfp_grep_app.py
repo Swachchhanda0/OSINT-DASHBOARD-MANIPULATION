@@ -4,11 +4,6 @@
 # Purpose:     Searches grep.app API for domains, URLs and emails related to the
 #              specified domain.
 #
-# Author:      <bcoles[at]gmail[.]com>
-#
-# Created:     2020-04-12
-# Copyright:   (c) bcoles 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

@@ -3,11 +3,6 @@
 # Name:         sfp_social`
 # Purpose:      Identify the usage of popular social networks
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     26/05/2013
-# Copyright:   (c) Steve Micallef 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

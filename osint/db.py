@@ -3,11 +3,6 @@
 # Name:         sfdb
 # Purpose:      Common functions for working with the database back-end.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     15/05/2012
-# Copyright:   (c) Steve Micallef 2012
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from pathlib import Path
@@ -18,7 +13,7 @@ import time
 
 
 class SpiderFootDb:
-    """SpiderFoot database
+    """Progarm database
 
     Attributes:
         conn: SQLite connect() connection
@@ -32,7 +27,7 @@ class SpiderFootDb:
     # Prevent multithread access to sqlite database
     dbhLock = threading.RLock()
 
-    # Queries for creating the SpiderFoot database
+    # Queries for creating the progarm database
     createSchemaQueries = [
         "PRAGMA journal_mode=WAL",
         "CREATE TABLE tbl_event_types ( \
@@ -331,7 +326,7 @@ class SpiderFootDb:
                     self.create()
                     init = True
                 except Exception as e:
-                    raise IOError(f"Tried to set up the SpiderFoot database schema, but failed: {e.args[0]}")
+                    raise IOError(f"Tried to set up the progarm database schema, but failed: {e.args[0]}")
 
             if init:
                 for row in self.eventDetails:

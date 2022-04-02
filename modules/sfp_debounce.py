@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_debounce
-# Purpose:      Spiderfoot plugin to check if an email is
+# Purpose:      Plugin to check if an email is
 #               disposable using Debounce API.
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     2020-10-01
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

@@ -3,11 +3,6 @@
 # Name:        sfp_cleantalk
 # Purpose:     Checks if a netblock or IP address is on CleanTalk.org's spam IP list.
 #
-# Author:      steve@binarypool.com
-#
-# Created:     05/08/2018
-# Copyright:   (c) Steve Micallef, 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPAddress, IPNetwork

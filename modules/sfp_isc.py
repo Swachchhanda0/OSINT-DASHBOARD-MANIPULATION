@@ -3,11 +3,6 @@
 # Name:         sfp_isc
 # Purpose:      Check if an IP address is malicious according to SANS ISC.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

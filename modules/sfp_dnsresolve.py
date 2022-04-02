@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_dnsresolve
-# Purpose:      SpiderFoot plug-in for extracting hostnames from identified data
+# Purpose:     Plug-in for extracting hostnames from identified data
 #               and resolving them.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     07/07/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

@@ -3,11 +3,6 @@
 # Name:         sfp_twilio
 # Purpose:      Extract data from phone numbers.
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     14/06/2020
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import base64

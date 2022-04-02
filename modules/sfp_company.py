@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_company
-# Purpose:      SpiderFoot plug-in for scanning retrieved content by other
+# Purpose:      Plug-in for scanning retrieved content by other
 #               modules (such as sfp_spider) and identifying company names.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     09/09/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

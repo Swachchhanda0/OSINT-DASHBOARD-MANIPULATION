@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_textmagic
-# Purpose:      Spiderfoot module to retrieve phone number type
+# Purpose:      Module to retrieve phone number type
 #               using TextMagic API
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     2020-10-05
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 import json
 

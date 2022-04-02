@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_etherscan
-# Purpose:      SpiderFoot plug-in to look up a ethereum wallet's balance by
+# Purpose:      Plug-in to look up a ethereum wallet's balance by
 #               querying etherscan.io.
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     26/01/2021
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

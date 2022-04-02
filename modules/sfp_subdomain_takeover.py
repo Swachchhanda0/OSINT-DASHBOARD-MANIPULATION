@@ -5,11 +5,6 @@
 #              using the fingerprints.json list from subjack by haccer:
 #              - https://github.com/haccer/subjack/master/fingerprints.json
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2020-06-21
-# Copyright:   (c) bcoles 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

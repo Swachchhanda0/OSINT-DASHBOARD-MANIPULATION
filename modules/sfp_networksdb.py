@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_networksdb
-# Purpose:     SpiderFoot plug-in to search NetworksDB.io API for IP address and
+# Purpose:     Plug-in to search NetworksDB.io API for IP address and
 #              domain information.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2019-09-16
-# Copyright:   (c) bcoles 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

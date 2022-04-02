@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_botscout
-# Purpose:      SpiderFoot plug-in to search botsout.com using their API, for
+# Purpose:      Plug-in to search botsout.com using their API, for
 #               potential malicious IPs and e-mail addresses.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     25/07/2016
-# Copyright:   (c) Steve Micallef 2016
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import urllib.error

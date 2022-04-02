@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_spamhaus
-# Purpose:      SpiderFoot plug-in for looking up whether IPs/Netblocks/Domains
+# Purpose:      Plug-in for looking up whether IPs/Netblocks/Domains
 #               appear in the Spamhaus block lists, indicating potential open-relays,
 #               open proxies, malicious servers, vulnerable servers, etc.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     07/01/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPNetwork

@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_email
-# Purpose:      SpiderFoot plug-in for scanning retrieved content by other
+# Purpose:      Plug-in for scanning retrieved content by other
 #               modules (such as sfp_spider) and identifying e-mail addresses
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     06/04/2012
-# Copyright:   (c) Steve Micallef 2012
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

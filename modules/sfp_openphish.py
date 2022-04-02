@@ -3,11 +3,6 @@
 # Name:         sfp_openphish
 # Purpose:      Check if a host/domain is malicious according to OpenPhish.com.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     28/06/2018
-# Copyright:   (c) Steve Micallef, 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

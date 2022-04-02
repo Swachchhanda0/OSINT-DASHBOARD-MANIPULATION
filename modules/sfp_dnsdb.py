@@ -1,13 +1,8 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_dnsdb
-# Purpose:     SpiderFoot plug-in that resolves and gets history of domains and IPs
+# Purpose:     Plug-in that resolves and gets history of domains and IPs
 #
-# Author:      Filip Aleksić <faleksicdev@gmail.com>
-#
-# Created:     2020-09-09
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

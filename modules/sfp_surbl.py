@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_surbl
-# Purpose:     SpiderFoot plug-in to check whether IP addresses, netblocks, and
+# Purpose:     Plug-in to check whether IP addresses, netblocks, and
 #              domains appear in the SURBL blacklist.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-10-17
-# Copyright:   (c) bcoles 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPNetwork

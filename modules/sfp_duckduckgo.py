@@ -3,11 +3,6 @@
 # Name:         sfp_duckduckgo
 # Purpose:      Queries DuckDuckGo's API for information abotut the target.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     21/07/2015
-# Copyright:   (c) Steve Micallef 2015
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

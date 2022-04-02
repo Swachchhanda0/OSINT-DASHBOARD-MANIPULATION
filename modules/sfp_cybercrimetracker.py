@@ -3,11 +3,6 @@
 # Name:        sfp_cybercrimetracker
 # Purpose:     Check if a host/domain or IP address is malicious according to cybercrime-tracker.net.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

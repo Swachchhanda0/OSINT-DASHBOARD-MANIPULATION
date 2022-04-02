@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_cloudflaredns
-# Purpose:      SpiderFoot plug-in for looking up whether hosts are blocked by
+# Purpose:      Plug-in for looking up whether hosts are blocked by
 #               CloudFlare family and malware filtering DNS servers.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     11/05/2020
-# Copyright:   (c) Steve Micallef 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import dns.resolver

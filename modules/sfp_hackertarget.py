@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_hackertarget
-# Purpose:      SpiderFoot plug-in to search HackerTarget.com for hosts sharing
+# Purpose:      Plug-in to search HackerTarget.com for hosts sharing
 #               the same IP. Optionally, also perform a basic TCP/UDP port scan
 #               for commonly open ports using HackerTarget.com port scan tools.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     12/04/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

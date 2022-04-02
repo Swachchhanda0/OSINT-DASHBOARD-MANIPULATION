@@ -4,11 +4,6 @@
 # Purpose:      Searches the Darksearch.io Tor search engine for content related
 #               to the domain in question.
 #
-# Author:      <bcoles[at]gmail[.]com>
-#
-# Created:     2019-05-11
-# Copyright:   (c) bcoles 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

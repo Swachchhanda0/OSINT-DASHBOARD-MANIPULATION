@@ -3,11 +3,6 @@
 # Name:         sfp_botvrij
 # Purpose:      Check if a domain is malicious according to botvrij.eu.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     16/05/2020
-# Copyright:   (c) Steve Micallef, 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

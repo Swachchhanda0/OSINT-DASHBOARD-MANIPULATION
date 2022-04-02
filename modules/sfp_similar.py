@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_similar
-# Purpose:      SpiderFoot plug-in for identifying domains that look similar
+# Purpose:      Plug-in for identifying domains that look similar
 #               to the one being queried.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     26/11/2016
-# Copyright:   (c) Steve Micallef 2012
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

@@ -2,11 +2,6 @@
 # Name:         sfp_wigle
 # Purpose:      Query wigle.net to identify nearby WiFi access points.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     10/09/2017
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import datetime

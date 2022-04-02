@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_maltiverse
-# Purpose:      Spiderfoot plugin to search Maltiverse API
+# Purpose:      Plugin to search Maltiverse API
 #               for any malicious activity by the target
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     20/05/2020
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

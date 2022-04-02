@@ -2,13 +2,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfcli
-# Purpose:     Command Line Interface for SpiderFoot.
+# Purpose:     Command Line Interface 
 #
-# Author:      Steve Micallef <steve@binarypool.com>
 #
-# Created:     03/05/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import argparse
@@ -25,15 +21,8 @@ from os.path import expanduser
 import requests
 
 
-ASCII_LOGO = r"""
-  _________      .__    .___          ___________            __
- /   _____/_____ |__| __| _/__________\_   _____/___   _____/  |_
- \_____  \\____ \|  |/ __ |/ __ \_  __ \    __)/  _ \ /  _ \   __\
- /        \  |_> >  / /_/ \  ___/|  | \/     \(  <_> |  <_> )  |
-/_______  /   __/|__\____ |\___  >__|  \___  / \____/ \____/|__|
-        \/|__|           \/    \/          \/
-                Open Source Intelligence Automation."""
-COPYRIGHT_INFO = "               by Steve Micallef | @spiderfoot\n"
+ASCII_LOGO = r""" Open Source Intelligence Automation."""
+COPYRIGHT_INFO = "               by Swachchhanda"
 
 try:
     import readline

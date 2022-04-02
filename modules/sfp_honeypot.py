@@ -4,11 +4,6 @@
 # Purpose:     SpiderFoot plug-in for looking up whether IPs appear in the
 #              ProjectHoneyPot.org database.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     16/04/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPNetwork

@@ -2,11 +2,6 @@
 # Name:         sfp_iknowwhatyoudownload
 # Purpose:      Query iknowwhatyoudownload.com for IP addresses using torrents.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     03/09/2018
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

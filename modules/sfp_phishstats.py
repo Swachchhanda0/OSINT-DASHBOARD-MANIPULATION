@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_phishstats
-# Purpose:     Spiderfoot plugin to search PhishStats API
+# Purpose:     Plugin to search PhishStats API
 #              to determine if an IP is malicious.
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     18/05/2020
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

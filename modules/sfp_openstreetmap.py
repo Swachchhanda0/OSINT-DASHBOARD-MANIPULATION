@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_openstreetmap
-# Purpose:      SpiderFoot plug-in to retrieve latitude/longitude coordinates
+# Purpose:      Plug-in to retrieve latitude/longitude coordinates
 #               for physical addresses from OpenStreetMap API.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2018-10-27
-# Copyright:   (c) bcoles 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

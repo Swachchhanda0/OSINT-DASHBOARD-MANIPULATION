@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_spider
-# Purpose:      SpiderFoot plug-in for spidering sites and returning meta data
+# Purpose:      Plug-in for spidering sites and returning meta data
 #               for other plug-ins to consume.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     25/03/2012
-# Copyright:   (c) Steve Micallef 2012
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_nameapi
-# Purpose:      Spiderfoot plugin to check if an email is
+# Purpose:      Plugin to check if an email is
 #               disposable using nameapi.org API.
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     2020-10-02
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

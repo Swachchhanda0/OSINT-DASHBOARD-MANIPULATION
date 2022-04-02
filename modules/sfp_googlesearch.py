@@ -3,11 +3,6 @@
 # Name:         sfp_googlesearch
 # Purpose:      Searches Google for content related to the domain in question.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     07/05/2012
-# Copyright:   (c) Steve Micallef 2012
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

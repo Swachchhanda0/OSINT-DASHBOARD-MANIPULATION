@@ -3,11 +3,6 @@
 # Name:        sfp_censys
 # Purpose:     Query Censys.io API
 #
-# Author:      Steve Micallef
-#
-# Created:     01/02/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import base64

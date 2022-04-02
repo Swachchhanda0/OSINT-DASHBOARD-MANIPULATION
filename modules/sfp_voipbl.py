@@ -4,11 +4,6 @@
 # Purpose:     Check if an IP address or netblock is malicious according to VoIPBL
 #              VoIP Blacklist.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPAddress, IPNetwork

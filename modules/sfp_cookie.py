@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_cookie
-# Purpose:      SpiderFoot plug-in for extracting cookies from HTTP headers.
-#
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     06/04/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
+# Purpose:      Plug-in for extracting cookies from HTTP headers.
 # -------------------------------------------------------------------------------
 
 import json

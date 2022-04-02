@@ -3,11 +3,6 @@
 # Name:         sfp_bingsearch
 # Purpose:      Searches Bing for content related to the domain in question.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     06/10/2013
-# Copyright:   (c) Steve Micallef 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 from osint import SpiderFootEvent, SpiderFootPlugin
 

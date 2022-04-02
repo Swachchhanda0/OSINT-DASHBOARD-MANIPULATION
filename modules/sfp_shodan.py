@@ -3,11 +3,6 @@
 # Name:        sfp_shodan
 # Purpose:     Search Shodan for information related to the target.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     19/03/2014
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

@@ -2,12 +2,6 @@
 # -------------------------------------------------------------------------------
 # Name:         sfp_whoxy
 # Purpose:      Query whoxy.com using their API.
-#
-# Author:      Steve Micallef
-#
-# Created:     03/09/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

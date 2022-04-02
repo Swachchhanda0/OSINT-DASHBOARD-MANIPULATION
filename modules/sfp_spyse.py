@@ -1,15 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_spyse
-# Purpose:     SpiderFoot plug-in to search Spyse API for IP address and
+# Purpose:     Plug-in to search Spyse API for IP address and
 #              domain information.
 #
-# Authors:      <bcoles@gmail.com>, Krishnasis Mandal<krishnasis@hotmail.com>
-#
-# Created:     2020-02-22
-# Updated:     2020-05-06
-# Copyright:   (c) bcoles 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

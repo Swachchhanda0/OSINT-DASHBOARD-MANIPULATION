@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_tool_cmseek
-# Purpose:      SpiderFoot plug-in for using the 'CMSeeK' tool.
+# Purpose:      Plug-in for using the 'CMSeeK' tool.
 #               Tool: https://github.com/Tuhinshubhra/CMSeeK
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     16/12/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import io

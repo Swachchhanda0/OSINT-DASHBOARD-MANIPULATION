@@ -3,12 +3,6 @@
 # Name:        sfp_abusech
 # Purpose:     Check if a host/domain, IP address or netblock is malicious according
 #              to Abuse.ch.
-#
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPAddress, IPNetwork

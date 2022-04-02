@@ -3,11 +3,6 @@
 # Name:         sfp_template
 # Purpose:      Example module to use for new modules.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     2020-04-21
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

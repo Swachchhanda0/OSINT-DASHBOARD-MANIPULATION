@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_skymem
-# Purpose:      SpiderFoot plug-in for retrieving up to 100 e-mail addresses
+# Purpose:      Plug-in for retrieving up to 100 e-mail addresses
 #               belonging to your target from Skymem.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     29/09/2018
-# Copyright:   (c) bcoles 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

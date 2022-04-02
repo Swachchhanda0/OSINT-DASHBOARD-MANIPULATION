@@ -4,11 +4,6 @@
 # Purpose:      Searches the commoncrawl.org project's indexes for URLs related
 #               to the target.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     05/09/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

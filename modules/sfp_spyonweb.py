@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_spyonweb
-# Purpose:      SpiderFoot plug-in to search SpyOnWeb for hosts sharing the
+# Purpose:      Plug-in to search SpyOnWeb for hosts sharing the
 #               same IP address, Google Analytics code, or Google Adsense code.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2018-10-25
-# Copyright:   (c) bcoles 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import datetime

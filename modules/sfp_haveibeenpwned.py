@@ -2,11 +2,6 @@
 # Name:         sfp_haveibeenpwned
 # Purpose:      Query haveibeenpwned.com to see if an e-mail account has been hacked.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     19/02/2015
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

@@ -3,11 +3,6 @@
 # Name:        sfp_urlscan
 # Purpose:     Search URLScan.io cache for domain information.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2019-09-09
-# Copyright:   (c) bcoles 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

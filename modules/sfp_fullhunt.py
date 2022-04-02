@@ -3,11 +3,6 @@
 # Name:        sfp_fullhunt
 # Purpose:     Identify domain attack surface using FullHunt API.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-10-26
-# Copyright:   (c) bcoles 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

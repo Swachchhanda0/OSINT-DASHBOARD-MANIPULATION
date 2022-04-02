@@ -3,11 +3,6 @@
 # Name:         sfp_errors
 # Purpose:      Identify common error messages in content like SQL errors, etc.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     18/01/2015
-# Copyright:   (c) Steve Micallef 2015
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

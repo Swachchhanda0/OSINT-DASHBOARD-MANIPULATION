@@ -4,11 +4,6 @@
 # Purpose:      From Spidering and from searching search engines, extracts file
 #               meta data from files matching certain file extensions.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     25/04/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import io

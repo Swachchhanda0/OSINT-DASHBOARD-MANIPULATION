@@ -1,14 +1,8 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_stor_db
-# Purpose:      SpiderFoot plug-in for storing events to the local SpiderFoot
+# Purpose:     plug-in for storing events to the local SpiderFoot
 #               SQLite database.
-#
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     14/05/2012
-# Copyright:   (c) Steve Micallef 2012
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootPlugin

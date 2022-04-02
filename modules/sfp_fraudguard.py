@@ -2,12 +2,6 @@
 # -------------------------------------------------------------------------------
 # Name:         sfp_fraudguard
 # Purpose:      Query fraudguard.io using their API
-#
-# Author:      Steve Micallef
-#
-# Created:     18/06/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import base64

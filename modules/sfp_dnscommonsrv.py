@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -----------------------------------------------------------------------------
 # Name:         sfp_dnscommonsrv
-# Purpose:      SpiderFoot plug-in for attempting to resolve through
+# Purpose:      plug-in for attempting to resolve through
 #               brute-forcing common DNS SRV records.
-#
-# Author:      Michael Scherer <misc@zarb.org>
-#
-# Created:     22/08/2017
-# Copyright:   (c) Michael Scherer 2017
-# Licence:     GPL
+#L
 # -----------------------------------------------------------------------------
 
 import dns.resolver

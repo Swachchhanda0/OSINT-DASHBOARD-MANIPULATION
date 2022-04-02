@@ -3,11 +3,6 @@
 # Name:        sfp_recondev
 # Purpose:     Search Recon.dev for subdomains.
 #
-# Authors:     <bcoles@gmail.com>
-#
-# Created:     2020-08-14
-# Copyright:   (c) bcoles 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

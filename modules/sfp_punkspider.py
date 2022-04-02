@@ -2,11 +2,6 @@
 # Name:         sfp_punkspider
 # Purpose:      Query the QOMPLX PunkSpider API to see if our target appears.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     07/08/2021
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import hashlib

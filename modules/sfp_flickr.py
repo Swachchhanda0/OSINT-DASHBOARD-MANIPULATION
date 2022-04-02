@@ -4,11 +4,6 @@
 # Purpose:     Search Flickr API for domains, URLs and emails related to the
 #              specified domain.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2018-10-08
-# Copyright:   (c) bcoles 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

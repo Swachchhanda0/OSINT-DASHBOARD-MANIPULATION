@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_badpackets
-# Purpose:     Spiderfoot plugin to search Bad Packets API for any
+# Purpose:     plugin to search Bad Packets API for any
 #              malicious activity by the target
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     11/05/2020
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

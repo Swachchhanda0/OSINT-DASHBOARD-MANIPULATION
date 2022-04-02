@@ -3,12 +3,6 @@
 # Name:        sfp_webanalytics
 # Purpose:     Scans retrieved content by other modules (such as sfp_spider and
 #              sfp_dnsraw) and retrieves web analytics and tracking IDs.
-#
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2018-10-28
-# Copyright:   (c) bcoles 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

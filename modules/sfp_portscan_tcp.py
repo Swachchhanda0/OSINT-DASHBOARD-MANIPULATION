@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_portscan_tcp
-# Purpose:      SpiderFoot plug-in for performing a basic TCP port scan of IP
+# Purpose:      Plug-in for performing a basic TCP port scan of IP
 #               addresses identified.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     20/02/2013
-# Copyright:   (c) Steve Micallef 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import random

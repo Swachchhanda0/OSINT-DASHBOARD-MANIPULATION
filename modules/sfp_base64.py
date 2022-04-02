@@ -3,10 +3,6 @@
 # Name:         sfp_base64
 # Purpose:      Identifies (best-effort) Base64-encoded strings in URLs.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     31/01/2017
-# Copyright:   (c) Steve Micallef 2017
 # -------------------------------------------------------------------------------
 
 import base64

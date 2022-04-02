@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_keybase
-# Purpose:     Spiderfoot plugin to query KeyBase API
+# Purpose:     Plugin to query KeyBase API
 #              to gather additional information about domain names and identified
 #              usernames.
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     22/05/2020
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

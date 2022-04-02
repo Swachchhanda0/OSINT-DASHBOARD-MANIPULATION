@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_ipinfo
-# Purpose:     SpiderFoot plug-in to identify the Geo-location of IP addresses
+# Purpose:     Plug-in to identify the Geo-location of IP addresses
 #              identified by other modules using ipinfo.io.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     17/06/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

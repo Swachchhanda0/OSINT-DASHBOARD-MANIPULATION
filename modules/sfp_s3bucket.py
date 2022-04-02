@@ -4,11 +4,6 @@
 # Purpose:      SpiderFoot plug-in for identifying potential S3 buckets related to
 #               the target.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     24/07/2016
-# Copyright:   (c) Steve Micallef 2016
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import random

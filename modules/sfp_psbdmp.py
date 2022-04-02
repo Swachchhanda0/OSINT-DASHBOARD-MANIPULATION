@@ -2,11 +2,6 @@
 # Name:         sfp_psbdmp
 # Purpose:      Query psbdmp.cc for potentially hacked e-mail addresses.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     21/11/2016
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

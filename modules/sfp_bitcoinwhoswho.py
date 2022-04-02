@@ -3,11 +3,6 @@
 # Name:         sfp_bitcoinwhoswho
 # Purpose:      Bitcoin Who's Who database lookup module
 #
-# Author:      Leo Trubach <leotrubach@gmail.com>
-#
-# Created:     2020-09-09
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

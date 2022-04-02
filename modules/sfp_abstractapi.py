@@ -2,12 +2,7 @@
 # -------------------------------------------------------------------------------
 # Name:        sfp_abstractapi
 # Purpose:     Search AbstractAPI for domain, phone and IP address information.
-#
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     29/07/2021
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
+
 # -------------------------------------------------------------------------------
 
 import json

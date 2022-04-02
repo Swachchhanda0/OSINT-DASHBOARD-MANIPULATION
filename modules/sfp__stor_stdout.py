@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_stor_stdout
-# Purpose:      SpiderFoot plug-in for dumping events to standard output.
-#
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     22/10/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
+# Purpose:      Program plug-in for dumping events to standard output.
 # -------------------------------------------------------------------------------
 
 import json

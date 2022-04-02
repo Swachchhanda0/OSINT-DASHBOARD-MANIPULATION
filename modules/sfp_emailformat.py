@@ -3,12 +3,7 @@
 # Name:         sfp_emailformat
 # Purpose:      SpiderFoot plug-in for retrieving e-mail addresses
 #               belonging to your target from email-format.com.
-#
-# Author:      <bcoles@gmail.com>
-#
-# Created:     29/09/2018
-# Copyright:   (c) bcoles 2018
-# Licence:     GPL
+#L
 # -------------------------------------------------------------------------------
 
 import re

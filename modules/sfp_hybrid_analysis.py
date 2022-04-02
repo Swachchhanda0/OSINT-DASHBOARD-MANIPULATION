@@ -3,11 +3,6 @@
 # Name:        sfp_hybrid_analysis
 # Purpose:     Search Hybrid Analysis for domains and URLs related to the target.
 #
-# Authors:     <bcoles@gmail.com>
-#
-# Created:     2020-08-09
-# Copyright:   (c) bcoles 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

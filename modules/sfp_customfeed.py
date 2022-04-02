@@ -4,11 +4,6 @@
 # Purpose:      Checks if an ASN, IP, hostname or domain is listed as malicious
 #               in a user-supplied data feed.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     11/11/2018
-# Copyright:   (c) Steve Micallef, 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

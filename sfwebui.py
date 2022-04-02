@@ -3,11 +3,6 @@
 # Name:         sfwebui
 # Purpose:      User interface class for use with a web browser
 #
-# Author:       Steve Micallef <steve@binarypool.com>
-#
-# Created:      30/09/2012
-# Copyright:    (c) Steve Micallef 2012
-# License:      GPL
 # -----------------------------------------------------------------
 import csv
 import html

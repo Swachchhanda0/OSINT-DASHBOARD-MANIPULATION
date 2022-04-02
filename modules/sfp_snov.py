@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_snov
-# Purpose:      Spiderfoot plugin to search Snov.IO API for emails
+# Purpose:      Plugin to search Snov.IO API for emails
 #               associated to target domain
 #
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     16/05/2020
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

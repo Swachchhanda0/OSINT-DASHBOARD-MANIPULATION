@@ -3,12 +3,6 @@
 # Name:        sfp_xforce
 # Purpose:     Obtain IP reputation and passive DNS information from IBM X-Force Exchange.
 #
-# Author:      Koen Van Impe
-#
-# Created:     23/12/2015
-# Updated:     26/07/2016, Steve Micallef - re-focused to be reputation-centric
-# Copyright:   (c) Koen Van Impe
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import base64

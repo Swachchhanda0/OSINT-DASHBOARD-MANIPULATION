@@ -4,11 +4,6 @@
 # Purpose:      Queries Internet registryes like RIPE (incl. ARIN) to get
 #               netblocks and other bits of info.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     8/12/2013
-# Copyright:   (c) Steve Micallef 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

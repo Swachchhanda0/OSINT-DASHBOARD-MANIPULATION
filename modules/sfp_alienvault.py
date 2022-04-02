@@ -3,11 +3,6 @@
 # Name:         sfp_alienvault
 # Purpose:      Query AlienVault OTX
 #
-# Author:      Steve Micallef
-#
-# Created:     26/03/2017
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

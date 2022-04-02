@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:        sfp_tool_whatweb
-# Purpose:     SpiderFoot plug-in for using the 'WhatWeb' tool.
+# Purpose:     Plug-in for using the 'WhatWeb' tool.
 #              Tool: https://github.com/urbanadventurer/whatweb
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2019-08-31
-# Copyright:   (c) bcoles 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

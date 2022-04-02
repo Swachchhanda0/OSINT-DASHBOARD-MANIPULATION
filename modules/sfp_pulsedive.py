@@ -3,11 +3,6 @@
 # Name:         sfp_pulsedive
 # Purpose:      Query Pulsedive's API
 #
-# Author:      Steve Micallef
-#
-# Created:     04/09/2018
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

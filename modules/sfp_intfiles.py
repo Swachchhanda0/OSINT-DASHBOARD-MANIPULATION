@@ -3,11 +3,6 @@
 # Name:         sfp_intfiles
 # Purpose:      From Spidered pages found, identifies files of potential interest.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     06/04/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

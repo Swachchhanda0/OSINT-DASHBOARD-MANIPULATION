@@ -3,11 +3,6 @@
 # Name:        sfp_abuseipdb
 # Purpose:     Check if an IP address is malicious according to AbuseIPDB.com.
 #
-# Author:      steve@binarypool.com
-#
-# Created:     06/09/2018
-# Copyright:   (c) Steve Micallef, 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

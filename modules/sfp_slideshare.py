@@ -2,11 +2,6 @@
 # Name:         sfp_slideshare
 # Purpose:      Query SlideShare for name and location information.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2018-10-15
-# Copyright:   (c) bcoles 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import re

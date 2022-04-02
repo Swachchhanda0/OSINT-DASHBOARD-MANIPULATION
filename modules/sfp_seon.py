@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_seon
-# Purpose:      Spiderfoot plugin to query seon.io to gather intelligence about
+# Purpose:      Plugin to query seon.io to gather intelligence about
 #               IP Addresses, email addresses, and phone numbers.
-#
-# Author:      Krishnasis Mandal <krishnasis@hotmail.com>
-#
-# Created:     08/02/2021
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
+
 # -------------------------------------------------------------------------------
 
 import json

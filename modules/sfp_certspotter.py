@@ -3,11 +3,6 @@
 # Name:        sfp_certspotter
 # Purpose:     Gather information about SSL certificates from SSLMate CertSpotter API.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-08-15
-# Copyright:   (c) bcoles
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import base64

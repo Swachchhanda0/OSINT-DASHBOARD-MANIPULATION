@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_whois
-# Purpose:      SpiderFoot plug-in for searching Whois servers for domain names
+# Purpose:      Plug-in for searching Whois servers for domain names
 #               and netblocks identified.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     06/04/2015
-# Copyright:   (c) Steve Micallef 2012
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import ipwhois

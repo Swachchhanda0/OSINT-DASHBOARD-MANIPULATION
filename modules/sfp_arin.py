@@ -4,11 +4,6 @@
 # Purpose:      Queries the ARIN internet registry to get netblocks and other
 #               bits of info.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     23/02/2018
-# Copyright:   (c) Steve Micallef 2018
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

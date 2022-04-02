@@ -3,11 +3,6 @@
 # Name:         sfp_emailrep
 # Purpose:      Searches EmailRep.io for email address reputation.
 #
-# Author:      <bcoles[at]gmail[.]com>
-#
-# Created:     2019-08-07
-# Copyright:   (c) bcoles 2019
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

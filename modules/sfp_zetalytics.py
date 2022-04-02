@@ -3,11 +3,6 @@
 # Name:         sfp_zetalytics
 # Purpose:      Query Zetalytics database for hostname & subdomain information
 #
-# Author:      Leo Trubach <leotrubach@gmail.com>
-#
-# Created:     2020-04-21
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

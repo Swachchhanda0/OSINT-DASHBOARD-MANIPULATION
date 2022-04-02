@@ -3,11 +3,6 @@
 # Name:         sfp_blocklistde
 # Purpose:      Check if a netblock or IP is malicious according to blocklist.de.
 #
-# Author:       steve@binarypool.com
-#
-# Created:     14/12/2013
-# Copyright:   (c) Steve Micallef, 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from netaddr import IPAddress, IPNetwork

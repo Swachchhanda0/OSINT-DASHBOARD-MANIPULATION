@@ -4,11 +4,6 @@
 # Purpose:     Check if a domain is malicious (malware or adware) according to
 #              Steven Black Hosts block list.
 #
-# Author:      <bcoles@gmail.com>
-#
-# Created:     2021-08-30
-# Copyright:   (c) bcoles 2021
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from osint import SpiderFootEvent, SpiderFootPlugin

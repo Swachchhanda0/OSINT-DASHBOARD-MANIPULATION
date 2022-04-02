@@ -2,11 +2,7 @@
 # Name:         sfp_h1.nobbd.de
 # Purpose:      Query the the unofficial HackerOne disclosure timeline database
 #               to see if our target appears.
-#
-# Author:      Dhiraj Mishra <dhiraj@notsosecure.com>
-# Created:     28/10/2018
-# Copyright:   (c) Dhiraj Mishra
-# Licence:     GPL
+#L
 # -------------------------------------------------------------------------------
 
 import re

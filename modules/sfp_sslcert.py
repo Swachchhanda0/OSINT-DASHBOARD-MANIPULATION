@@ -3,11 +3,6 @@
 # Name:         sfp_sslcert
 # Purpose:      Gather information about SSL certificates behind HTTPS sites.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     23/08/2013
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 from urllib.parse import urlparse

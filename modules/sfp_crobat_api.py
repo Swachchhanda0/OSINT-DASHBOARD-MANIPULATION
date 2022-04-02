@@ -5,11 +5,6 @@
 #              https://www.onsecurity.co.uk/blog/how-i-made-rapid7s-project-sonar-searchable
 #              https://github.com/cgboal/sonarsearch
 #
-# Authors:     <bcoles@gmail.com>
-#
-# Created:     2020-08-29
-# Copyright:   (c) bcoles 2020
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

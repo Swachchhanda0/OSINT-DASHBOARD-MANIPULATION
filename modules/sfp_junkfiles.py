@@ -3,11 +3,6 @@
 # Name:         sfp_junkfiles
 # Purpose:      From Spidering, identifies backup and temporary files.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     23/08/2014
-# Copyright:   (c) Steve Micallef 2014
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import random

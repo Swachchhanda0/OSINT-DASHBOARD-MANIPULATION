@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_tldsearch
-# Purpose:      SpiderFoot plug-in for identifying the existence of this target
+# Purpose:      Plug-in for identifying the existence of this target
 #               on other TLDs.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     31/08/2013
-# Copyright:   (c) Steve Micallef 2013
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import random

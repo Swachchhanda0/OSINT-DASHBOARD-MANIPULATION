@@ -3,11 +3,6 @@
 # Name:         sfp_stackoverflow
 # Purpose:      Search StackOverflow for any mentions of a target domain name
 #
-# Author:      Jess Williams <jesscia_williams0@protonmail.com>
-#
-# Created:     2021-12-12
-# Copyright:   (c) Steve Micallef
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json

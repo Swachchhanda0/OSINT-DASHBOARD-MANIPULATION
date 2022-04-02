@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sfp_crt
-# Purpose:      SpiderFoot plug-in to identify historical certificates for a domain
+# Purpose:      Plug-in to identify historical certificates for a domain
 #               from crt.sh, and from this identify hostnames.
 #
-# Author:      Steve Micallef <steve@binarypool.com>
-#
-# Created:     17/03/2017
-# Copyright:   (c) Steve Micallef 2017
-# Licence:     GPL
 # -------------------------------------------------------------------------------
 
 import json
