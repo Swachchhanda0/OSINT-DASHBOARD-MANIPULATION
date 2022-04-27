@@ -24,10 +24,10 @@ import requests
 ASCII_LOGO = r""" Open Source Intelligence Automation."""
 COPYRIGHT_INFO = "               by Swachchhanda"
 
-try:
-    import readline
-except ImportError:
-    import pyreadline as readline
+# try:
+#     import readline
+# except ImportError:
+#     import pyreadline as readline
 
 
 # Colors to make things purty
@@ -337,7 +337,7 @@ class SpiderFootCli(cmd.Cmd):
         # print("time: " + str(time.time() - ts))
         return ''.join(out)
 
-    # Make a request to the SpiderFoot server
+    # Make a request to the server
     def request(self, url, post=None):
         if not url:
             self.edprint("Invalid request URL")
@@ -353,7 +353,7 @@ class SpiderFootCli(cmd.Cmd):
         # requests_log.setLevel(logging.DEBUG)
         # requests_log.propagate = True
         headers = {
-            "User-agent": "SpiderFoot-CLI/" + self.version,
+            "User-agent": "OSINT-CLI/" + self.version,
             "Accept": "application/json"
         }
 
@@ -547,7 +547,7 @@ class SpiderFootCli(cmd.Cmd):
     # Ping the server.
     def do_ping(self, line):
         """ping
-        Ping the SpiderFoot server to ensure it's responding."""
+        Ping the server to ensure it's responding."""
         d = self.request(self.ownopts['cli.server_baseurl'] + "/ping")
         if not d:
             return
@@ -563,7 +563,7 @@ class SpiderFootCli(cmd.Cmd):
         if s[1] != self.version:
             self.edprint(f"Server and CLI version are not the same ({s[1]} / {self.version}). This could lead to unpredictable results!")
 
-    # List all SpiderFoot modules.
+    # List all modules.
     def do_modules(self, line, cacheonly=False):
         """modules
         List all available modules and their descriptions."""
@@ -580,7 +580,7 @@ class SpiderFootCli(cmd.Cmd):
         self.send_output(d, line, titles={"name": "Module name",
                                           "descr": "Description"})
 
-    # List all SpiderFoot data element types.
+    # List all data element types.
     def do_types(self, line, cacheonly=False):
         """types
         List all available element types and their descriptions."""
@@ -607,7 +607,7 @@ class SpiderFootCli(cmd.Cmd):
     # Load commands from a file.
     def do_load(self, line):
         """load <file>
-        Execute SpiderFoot CLI commands found in <file>."""
+        Execute CLI commands found in <file>."""
         pass
 
     # Get scan info and config.
@@ -1073,8 +1073,8 @@ class SpiderFootCli(cmd.Cmd):
             ["history", "Enable/Disable/List command history."],
             ["spool", "Enable/Disable spooling output."],
             ["shell", "Execute a shell command."],
-            ["exit", "Exit the SpiderFoot CLI (won't impact running scans)."],
-            ["ping", "Test connectivity to the SpiderFoot server."],
+            ["exit", "Exit the CLI (won't impact running scans)."],
+            ["ping", "Test connectivity to the server."],
             ["modules", "List available modules."],
             ["types", "List available data types."],
             ["set", "Set variables and configuration settings."],
@@ -1086,7 +1086,7 @@ class SpiderFootCli(cmd.Cmd):
             ["data", "Show data from a scan's results."],
             ["summary", "Scan result summary."],
             ["find", "Search for data within scan results."],
-            ["query", "Run SQL against the SpiderFoot SQLite database."],
+            ["query", "Run SQL against the SQLite database."],
             ["logs", "View/watch logs from a scan."]
         ]
 
@@ -1100,7 +1100,7 @@ class SpiderFootCli(cmd.Cmd):
     # Get/Set configuration
     def do_set(self, line):
         """set [opt [= <val>]]
-        Set a configuration variable in SpiderFoot."""
+        Set a configuration variable in."""
 
         c = self.myparseline(line, replace=False)
         cfg = None
@@ -1137,7 +1137,7 @@ class SpiderFootCli(cmd.Cmd):
         # Get the server-side config
         d = self.request(self.ownopts['cli.server_baseurl'] + "/optsraw")
         if not d:
-            self.edprint("Unable to obtain SpiderFoot server-side config.")
+            self.edprint("Unable to obtain server-side config.")
             return
 
         j = list()
@@ -1145,7 +1145,7 @@ class SpiderFootCli(cmd.Cmd):
         token = ""  # nosec
         j = json.loads(d)
         if j[0] == "ERROR":
-            self.edprint("Error fetching SpiderFoot server-side config.")
+            self.edprint("Error fetching server-side config.")
             return
 
         serverconfig = j[1]['data']
@@ -1231,12 +1231,12 @@ class SpiderFootCli(cmd.Cmd):
             j = list()
 
             if not d:
-                self.edprint("Unable to set SpiderFoot server-side config.")
+                self.edprint("Unable to set server-side config.")
                 return
 
             j = json.loads(d)
             if j[0] == "ERROR":
-                self.edprint(f"Error setting SpiderFoot server-side config: {j[1]}")
+                self.edprint(f"Error setting server-side config: {j[1]}")
                 return
 
             self.dprint(f"{cfg} set to {val}")
@@ -1261,26 +1261,26 @@ class SpiderFootCli(cmd.Cmd):
     # Exit the CLI
     def do_exit(self, line):
         """exit
-        Exit the SpiderFoot CLI."""
+        Exit the CLI."""
         return True
 
     # Ctrl-D
     def do_EOF(self, line):
         """EOF (Ctrl-D)
-        Exit the SpiderFoot CLI."""
+        Exit the CLI."""
         print("\n")
         return True
 
 
 if __name__ == "__main__":
-    p = argparse.ArgumentParser(description='SpiderFoot: Open Source Intelligence Automation.')
+    p = argparse.ArgumentParser(description=' Open Source Intelligence Automation.')
     p.add_argument("-d", "--debug", help="Enable debug output.", action='store_true')
-    p.add_argument("-s", metavar="URL", type=str, help="Connect to SpiderFoot server on URL. By default, a connection to http://127.0.0.1:5001 will be attempted.")
-    p.add_argument("-u", metavar="USER", type=str, help="Username to authenticate to SpiderFoot server.")
-    p.add_argument("-p", metavar="PASS", type=str, help="Password to authenticate to SpiderFoot server. Consider using -P PASSFILE instead so that your password isn't visible in your shell history or in process lists!")
-    p.add_argument("-P", metavar="PASSFILE", type=str, help="File containing password to authenticate to SpiderFoot server. Ensure permissions on the file are set appropriately!")
+    p.add_argument("-s", metavar="URL", type=str, help="Connect to  server on URL. By default, a connection to http://127.0.0.1:5001 will be attempted.")
+    p.add_argument("-u", metavar="USER", type=str, help="Username to authenticate to server.")
+    p.add_argument("-p", metavar="PASS", type=str, help="Password to authenticate to server. Consider using -P PASSFILE instead so that your password isn't visible in your shell history or in process lists!")
+    p.add_argument("-P", metavar="PASSFILE", type=str, help="File containing password to authenticate to  server. Ensure permissions on the file are set appropriately!")
     p.add_argument("-e", metavar="FILE", type=str, help="Execute commands from FILE.")
-    p.add_argument("-l", metavar="FILE", type=str, help="Log command history to FILE. By default, history is stored to ~/.spiderfoot_history unless disabled with -n.")
+    p.add_argument("-l", metavar="FILE", type=str, help="Log command history to FILE. By default, history is stored unless disabled with -n.")
     p.add_argument("-n", action='store_true', help="Disable history logging.")
     p.add_argument("-o", metavar="FILE", type=str, help="Spool commands and output to FILE.")
     p.add_argument("-i", help="Allow insecure server connections when using SSL", action='store_true')

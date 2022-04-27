@@ -1,12 +1,7 @@
 //-------------------------------------------------------------------------------
 // Name:         spiderfoot.js
-// Purpose:      All the javascript code for the spiderfoot aspects of the UI.
+// Purpose:      All the javascript code for the differnt aspects of the UI.
 //
-// Author:      Steve Micallef <steve@binarypool.com>
-//
-// Created:     03/10/2012
-// Copyright:   (c) Steve Micallef 2012
-// Licence:     GPL
 //-------------------------------------------------------------------------------
 
 // Toggler for theme

@@ -36,7 +36,7 @@ class SpiderFootEvent():
     __id = None
 
     def __init__(self, eventType: str, data: str, module: str, sourceEvent: 'SpiderFootEvent') -> None:
-        """Initialize SpiderFoot event object.
+        """Initialize event object.
 
         Args:
             eventType (str): Event type, e.g. URL_FORM, RAW_DATA, etc.

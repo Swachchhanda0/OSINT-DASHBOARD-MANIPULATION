@@ -39,7 +39,7 @@ mp.set_start_method("spawn", force=True)
 
 
 class SpiderFootWebUi:
-    """SpiderFoot web interface."""
+    """ web interface."""
 
     lookup = TemplateLookup(directories=[''])
     defaultConfig = dict()
@@ -52,7 +52,7 @@ class SpiderFootWebUi:
 
         Args:
             web_config (dict): config settings for web interface (interface, port, root path)
-            config (dict): SpiderFoot config
+            config (dict): config
             loggingQueue: TBD
 
         Raises:

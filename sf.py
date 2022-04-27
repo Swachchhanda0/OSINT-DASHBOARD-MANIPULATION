@@ -495,9 +495,9 @@ def start_web_server(sfWebUiConfig, sfConfig, loggingQueue=None):
         }
     else:
         warn_msg = "\n********************************************************************\n"
-        warn_msg += "Warning: passwd file contains no passwords. Authentication disabled.\n"
-        warn_msg += "Please consider adding authentication to protect this instance!\n"
-        warn_msg += "Refer to https://www.spiderfoot.net/documentation/#security.\n"
+        warn_msg += "\n"
+        warn_msg += "\n"
+        warn_msg += ""
         warn_msg += "********************************************************************\n"
         log.warning(warn_msg)
 
@@ -539,7 +539,7 @@ def start_web_server(sfWebUiConfig, sfConfig, loggingQueue=None):
 
     print("")
     print("*************************************************************")
-    print(" Use SpiderFoot by starting your web browser of choice and ")
+    print(" Use by starting your web browser of choice and ")
     print(f" browse to {url}")
     print("*************************************************************")
     print("")

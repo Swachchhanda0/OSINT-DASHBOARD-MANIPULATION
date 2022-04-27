@@ -24,7 +24,7 @@ _srcfile = os.path.normcase(_srcfile)
 
 
 class SpiderFootPluginLogger(logging.Logger):
-    """Used only in SpiderFootPlugin to prevent modules
+    """Used only in Plugin to prevent modules
     from having to initialize their own loggers.
 
     Preserves filename, module, line numbers, etc. from the caller.

@@ -1,7 +1,7 @@
 #  -*- coding: utf-8 -*-
 # -------------------------------------------------------------------------------
 # Name:         sflib
-# Purpose:      Common functions used by SpiderFoot modules.
+# Purpose:      Common functions used by the modules.
 #
 # -------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ class SpiderFoot:
 
     Attributes:
         dbh (SpiderFootDb): database handle
-        scanId (str): scan ID this instance of SpiderFoot is being used in
+        scanId (str): scan ID this instance is being used in
         socksProxy (str): SOCKS proxy
         opts (dict): configuration options
     """

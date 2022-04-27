@@ -2,7 +2,7 @@ import netaddr
 
 
 class SpiderFootTarget():
-    """SpiderFoot target.
+    """ target.
 
     Attributes:
         validTypes (list): valid event types accepted as a target
@@ -19,7 +19,7 @@ class SpiderFootTarget():
     _targetAliases = list()
 
     def __init__(self, targetValue: str, typeName: str) -> None:
-        """Initialize SpiderFoot target.
+        """Initialize target.
 
         Args:
             targetValue (str): target value

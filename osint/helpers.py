@@ -11,14 +11,14 @@ from pathlib import Path
 
 
 class SpiderFootHelpers():
-    """SpiderFoot helper functions."""
+    """ helper functions."""
 
     @staticmethod
     def dataPath() -> str:
-        """Returns the file system location of SpiderFoot data and configuration files.
+        """Returns the file system location of data and configuration files.
 
         Returns:
-            str: SpiderFoot data file system path
+            str: data file system path
         """
         path = os.environ.get('SPIDERFOOT_DATA')
         if not path:
@@ -32,7 +32,7 @@ class SpiderFootHelpers():
         """Returns the file system location of the cacha data files.
 
         Returns:
-            str: SpiderFoot cache file system path
+            str: cache file system path
         """
         path = os.environ.get('SPIDERFOOT_CACHE')
         if not path:
@@ -43,7 +43,7 @@ class SpiderFootHelpers():
 
     @staticmethod
     def logPath() -> str:
-        """Returns the file system location of SpiderFoot log files.
+        """Returns the file system location of log files.
 
         Returns:
             str: SpiderFoot data file system path
